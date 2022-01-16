@@ -1,0 +1,30 @@
+
+body {
+    font: 20px Arial, Sans-serif
+}
+
+.navbar {
+    background-color: rgb(166, 204, 191);
+}
+
+.about {
+    background-color: rgb(255, 136, 0);
+}
+
+.partners {
+    background-color: rgb(44, 138, 226);
+}
+
+.services {
+    background-color: rgb(80, 226, 44);
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
